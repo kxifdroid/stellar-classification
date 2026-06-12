@@ -96,19 +96,20 @@ stellar_classification.ipynb
 Run all cells sequentially to reproduce the results.
 
 ## Results Summary
-Metric	Value
-Accuracy	TBD
-Macro F1 Score	TBD
-Recall (Star)	TBD
-Recall (Galaxy)	TBD
-Recall (Quasar)	TBD
-Key Findings
+
+Accuracy:	0.9797
+Macro F1 Score:	0.98
+Recall (Star):	1.00
+Recall (Galaxy):	0.99
+Recall (Quasar):	0.93
+
+## Key Findings
 Photometric magnitudes (u, g, r, i, z) provide strong discriminatory power for distinguishing between stellar and extragalactic objects.
 Redshift is among the most influential features for separating galaxies and quasars from stars.
 Ensemble learning models such as XGBoost effectively capture complex feature interactions and achieve superior classification performance.
 
 
-# Acknowledgements
+## Acknowledgements
 Sloan Digital Sky Survey (SDSS)
 SDSS Data Release 18 Team
 Scikit-learn Community
