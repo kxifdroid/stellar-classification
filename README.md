@@ -1,7 +1,7 @@
 # Stellar Classification using SDSS DR18 Dataset
 ### Collab link (anyone can view): https://colab.research.google.com/drive/1B1nq-eCWXYdpu4jr3FvDcylRI3PaDB--?usp=sharing
 
-### All images are uploded in the images folder in repo
+### All images are uploded in the images folder in repo and can be seen in collab link also
 
 A machine learning pipeline for classifying celestial objects using data from the Sloan Digital Sky Survey (SDSS) Data Release 18.
 
